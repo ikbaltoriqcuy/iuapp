@@ -1,0 +1,4 @@
+class Constanta {
+  static const image = "assets/";
+  static const iuInfo = " K-Popers pasti tak asing dengan nama IU. Penyanyi sekaligus artis drama Korea yang bernama asli Lee Ji Eun adalah bintang papan atas Negeri Ginseng tersebut. \n\n IU sukses dengan lagu-lagu hits seperti Boo dan Marshmallow. Kariernya juga semakin terang setelah sukses membintangi drama berjudul The Producers, Persona, dan yang paling populer adalah Hotel del Luna.  \n\n  Tak hanya itu, IU juga pernah menjadi brand ambassador dari soju terkenal merek Jinro Chamisul, Samsung, GUESS, serta provider telepon SK Telecom.";
+}
